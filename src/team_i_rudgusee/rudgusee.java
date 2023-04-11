@@ -1,4 +1,4 @@
-package team_i_rudgusee;
+package team_i;
 
 public class rudgusee extends PersonalInfo {
 
